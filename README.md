@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @georgegkonis
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, Python, Javascript, HTML, CSS
-- 💞️ I’m not looking to collaborate at this moment
-- 📫 Reach me on georgegkonis@outlook.com
+# George Gkonis
 
-<!---
-georgegkonis/georgegkonis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build software across web applications, APIs, data systems, and developer tooling. My projects span TypeScript and Angular, .NET and Java backends, Python, and infrastructure automation.
+
+## Selected projects
+
+| Project | What it covers |
+| --- | --- |
+| [Link prediction on text-attributed graphs](https://github.com/georgegkonis/link-prediction) | Computer Engineering thesis exploring CascadeLP, a confidence-routed link predictor, and the limits of common negative-sampling benchmarks. |
+| [Disaster Response Coordinator](https://github.com/georgegkonis/disaster-response-coordinator) | Angular and backend application for coordinating support requests and resources during a disaster. |
+| [Chord DHT implementation and analysis](https://github.com/georgegkonis/chord-dht-analysis) | Python implementation of the Chord protocol with experiments on distributed lookup behavior. |
+| [Fedora Workstation Provisioning](https://github.com/georgegkonis/fedora-workstation-provisioning) | Ansible automation for setting up a Fedora development workstation. |
+
